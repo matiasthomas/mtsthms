@@ -1,0 +1,1 @@
+El voseo y el tuteo son dos formas en alternancia
