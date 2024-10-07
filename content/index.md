@@ -7,11 +7,11 @@ Este es un sitio nuevo, y cuando digitalicé estos apuntes mi idea no era subirl
 Lo que están viendo fue creado por un estudiante de letras siguiendo tutoriales, no por un diseñador multimedial. Por favor, ¡sepan disculpar cualquier error! Y no duden en contactarme. 
 
 **APUNTES SUBIDOS**:
-- Lingüística (2024)
+- [[Apuntes/Lingüística|Lingüística (2024)]]
 - Literatura alemana (2024)
 
 **PRÓXIMAS CARPETAS A SUBIR:**
-- Literatura argentina I (2019)
+mtsthms/- Literatura argentina I (2019)
 - Literatura argentina II (2019)
 
 Actualmente preparando:
