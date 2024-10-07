@@ -8,12 +8,12 @@ Lo que están viendo fue creado por un estudiante de letras siguiendo tutoriales
 
 **APUNTES SUBIDOS**:
 - [[Apuntes/Lingüística|Lingüística (2024)]]
-- Literatura alemana (2024)
+- [[Apuntes/Literatura alemana|Literatura alemana (2024)]]
 
 **PRÓXIMAS CARPETAS A SUBIR:**
-mtsthms/- Literatura argentina I (2019)
+- Literatura argentina I (2019)
 - Literatura argentina II (2019)
 
 Actualmente preparando:
-- Metodología de la investigación literaria (2021)
+- [[Apuntes/Metodología|Metodología de la investigación literaria (2021)]]
 - Teoría de la crítica (2021)
